@@ -1,0 +1,8 @@
+2025-02-06T13:56:38.671Z [ERROR]: req.csrfToken is not a function - GET /api/docs/
+2025-02-06T13:56:38.929Z [ERROR]: req.csrfToken is not a function - GET /favicon.ico
+2025-02-06T13:56:41.462Z [ERROR]: req.csrfToken is not a function - GET /api/docs/
+2025-02-06T13:56:41.710Z [ERROR]: req.csrfToken is not a function - GET /favicon.ico
+2025-02-06T13:57:28.232Z [ERROR]: req.csrfToken is not a function - GET /api/docs/
+2025-02-06T13:57:28.489Z [ERROR]: req.csrfToken is not a function - GET /favicon.ico
+2025-02-06T14:06:49.603Z [ERROR]: Not Found - GET /fsdg
+2025-02-06T14:06:49.877Z [ERROR]: Not Found - GET /favicon.ico
